@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Taimur Tanveer]!
+# 👋 Hey, I'm Taimur Tanveer!
 
 ![Coding Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) <!-- Example GIF URL -->
 
