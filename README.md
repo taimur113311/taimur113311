@@ -39,8 +39,6 @@
 
 ## 📫 Let’s Connect!
 
-- 📧 [Email Me](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-
+- 📧 [Email Me](mailto:taimurtanveerms@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/taimur-tanveer-331110134/))
 ---
