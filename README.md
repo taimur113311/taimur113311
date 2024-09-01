@@ -40,5 +40,5 @@
 ## 📫 Let’s Connect!
 
 - 📧 [Email Me](mailto:taimurtanveerms@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/taimur-tanveer-331110134/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/taimur-tanveer-331110134/)
 ---
