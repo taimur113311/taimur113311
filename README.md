@@ -8,7 +8,7 @@
 
 ### 🎯 About Me
 
-- 🛠 **6 Years** of crafting amazing Android Apps using **Kotlin & Java**.
+- 🛠 **7 Years** of crafting amazing Android Apps using **Kotlin & Java**.
 - 🧩 Expert in Jetpack Components: `Room`, `Work Manager`, `ViewModel`, `LiveData`, `Navigation`, and more!
 - 📚 Proficient in Architectures: `MVVM`, `MVC`, `MVP` – ensuring clean and scalable code.
 - 🌐 Skilled in RESTful API Integration using `Retrofit`, `Volley`, and `Asynchronous HTTP Client`.
